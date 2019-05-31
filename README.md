@@ -3,7 +3,7 @@
 - Page link: http://52.53.124.134/
 
 
-* Functionalities:
+# Functionalities:
 - Item Search (As well by filtering)
 - Login/Register
 - Detail pages with map (time and distance from campus)
