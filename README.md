@@ -10,6 +10,7 @@
 - Posting Listings
 - User and Admin (Dashboard)
 - Delete User/Listing
+- Security (input validation & Password encoding)
 
 ![dormy](https://user-images.githubusercontent.com/18272791/58681877-4b2f5d00-8323-11e9-8907-2dbac1f8db91.gif)
 
