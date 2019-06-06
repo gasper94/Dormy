@@ -1,5 +1,6 @@
 # csc648-sp19-Team01
 ![dormy](https://user-images.githubusercontent.com/18272791/58681877-4b2f5d00-8323-11e9-8907-2dbac1f8db91.gif)
+![Screen Shot 2019-06-05 at 5 39 09 PM](https://user-images.githubusercontent.com/18272791/58999135-14d95e00-87b9-11e9-935e-bcc5b753cfa6.png)
 
 - Page link: http://52.53.124.134/
 
